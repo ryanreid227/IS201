@@ -1,0 +1,30 @@
+h1{
+    color: lightgray;
+}
+
+h2{
+    color: lightgray;
+}
+
+h3{
+    background-color: lightgray;
+}
+
+.subheading{
+    color: lightblue;
+    font-weight: bold;
+}
+
+li{
+    font-weight: bold;
+}
+
+main{
+    background-color: gray;
+}
+
+.footer{
+    text-align: center;
+    background-color: aquamarine;
+}
+
